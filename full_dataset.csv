@@ -13,7 +13,7 @@
 11,Home_02-video (32).avi,fall,25,125
 12,Coffee_room_01-video (30).avi,nonfall,0,100
 13,Coffee_room_01-video (32).avi,fall,125,225
-14,Home_02-video (50).avi,nonfall,275,375
+14,Home_02-video (50).avi,nonfall,200,300
 15,Coffee_room_01-video (7).avi,fall,25,125
 16,Coffee_room_01-video (20).avi,fall,300,400
 17,Coffee_room_02-video (51).avi,fall,25,125
@@ -49,7 +49,7 @@
 47,Coffee_room_01-video (18).avi,fall,75,175
 48,Coffee_room_01-video (41).avi,fall,200,300
 49,Home_02-video (39).avi,nonfall,50,150
-50,Coffee_room_01-video (29).avi,fall,225,325
+50,Coffee_room_01-video (29).avi,fall,200,300
 51,Coffee_room_01-video (6).avi,fall,75,175
 52,Coffee_room_01-video (12).avi,fall,0,100
 53,Coffee_room_02-video (70).avi,nonfall,700,800
@@ -98,7 +98,7 @@
 96,Coffee_room_01-video (31).avi,fall,75,175
 97,Lecture_room-video (1).avi,fall,125,225
 98,Lecture_room-video (2).avi,fall,325,425
-99,Lecture_room-video (3).avi,fall,525,625
+99,Lecture_room-video (3).avi,fall,475,575
 100,Lecture_room-video (4).avi,fall,225,325
 101,Lecture_room-video (5).avi,fall,225,325
 102,Lecture_room-video (6).avi,fall,125,225
