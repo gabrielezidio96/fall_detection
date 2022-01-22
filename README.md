@@ -13,3 +13,13 @@
 * 6º passo, executar validate.py, procurando erros.
 
 * 7º passo, executar move.py
+
+# Passos para executar o modelo:
+
+* 1º Instalar o ambiente Anaconda.
+
+* 2º Instalar as dependências das bibliotecas.
+
+* 3º Executar o jupyter notebook <b>"Fall Detection CNN.ipynb"</b>.
+
+<b>OBS: </b>Para executar o modelo apartir dos dados já processados no repositório, é necessário apenas rodar o jupyter notebook no Anaconda com as devidas dependências instaladas <b>"Fall Detection CNN.ipynb"</b>.
